@@ -3,7 +3,7 @@
 > Java基础&Web基础
 
 - Java基础
-  - [java基础语法](<https://github.com/zysheep/Java-Notes/blob/master/Part1.Java%E5%9F%BA%E7%A1%80%26Web%E5%9F%BA%E7%A1%80/1.Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md>)
+  - [java基础语法](https://github.com/zysheep/Java-Notes/tree/master/Part1.Java%E5%9F%BA%E7%A1%80%26Web%E5%9F%BA%E7%A1%80/1.Java%E5%9F%BA%E7%A1%80/1.Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
   - 面向对象思想
   - 集合框架
   - IO流
