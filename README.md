@@ -1,7 +1,8 @@
 # Java快速成长学习路线
 
-- Java基础
+> Java基础&Web基础
 
+- Java基础
   - java基础语法
   - 面向对象
   - 集合
@@ -9,17 +10,13 @@
   - 多线程与并发
   - 异常
   - 网络编程
-
 - 数据库
-
   - MySQL
   - Oracle
   - JDBC
   - C3P0
   - Druid
-
 - 前端技术
-
   - HTML
   - CSS
   - JavaScript
@@ -29,9 +26,7 @@
   - webpack
   - elementUI
   - 微信小程序
-
 - 动态网页
-
   - Servlet
   - Jsp
   - EL
@@ -40,9 +35,7 @@
   - Session
   - Filter
   - Listener
-
 - 编程强化
-
   - 设计模式
   - JVM优化
   - 数据结构算法
@@ -50,9 +43,7 @@
   - MINA
   - Netty
   - NIO
-
 - 软件项目,代码管理
-
   - Maven
   - SVN
   - Git
@@ -60,6 +51,8 @@
   - Markdown
   - Jenkins
   - Sonar
+
+> 热门框架&分布式服务
 
 - 热门技术框架
 
@@ -112,8 +105,9 @@
   - Docker
   - Kubernetes
 
-- 企业复杂业务解决方案
+> 企业复杂业务解决方案
 
+- 企业复杂业务解决方案
   - Elasticsearch
   - Kibana
   - Logstash
