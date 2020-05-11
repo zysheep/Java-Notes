@@ -10,12 +10,14 @@
   - 多线程与并发
   - 异常处理
   - 网络编程
+
 - 数据库
   - MySQL
   - Oracle
   - JDBC
   - C3P0
   - Druid
+
 - 前端技术
   - HTML
   - CSS
@@ -26,6 +28,7 @@
   - webpack
   - elementUI
   - 微信小程序
+
 - 动态网页
   - Servlet
   - Jsp
@@ -35,6 +38,7 @@
   - Session
   - Filter
   - Listener
+
 - 编程强化
   - 设计模式
   - JVM优化
@@ -43,12 +47,16 @@
   - MINA
   - Netty
   - NIO
+
 - 软件项目,代码管理
+
+  - Markdown
+
   - Maven
   - SVN
   - Git
   - 码云
-  - Markdown
+  - github
   - Jenkins
   - Sonar
 
@@ -113,7 +121,7 @@
   - Logstash
   - Beats
   - JCL
-  - LOG4J
+  - Log4J
   - Logback
   - SLF4J
   - Lucene

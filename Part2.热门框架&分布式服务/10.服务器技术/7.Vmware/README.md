@@ -1,0 +1,1 @@
+VMWare (Virtual Machine ware)是一个“虚拟PC”软件公司。它的产品可以使你在一台机器上同时运行二个或更多Windows、DOS、LINUX系统。

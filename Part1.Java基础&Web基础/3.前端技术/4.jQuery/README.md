@@ -1,0 +1,1 @@
+jQuery 是一个高效、精简并且功能丰富的 JavaScript工具库。jQuery让诸如HTML文档遍历和操作、事件处理、动画和 Ajax 操作更加简单。

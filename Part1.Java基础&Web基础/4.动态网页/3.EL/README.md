@@ -1,0 +1,1 @@
+EL（Expression Language） 是为了使JSP写起来更加简单，它提供了在 JSP 中简化表达式的方法，让JSP的代码更加简化。

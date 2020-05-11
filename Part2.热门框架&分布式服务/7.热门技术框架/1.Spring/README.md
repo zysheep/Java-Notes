@@ -1,0 +1,1 @@
+Spring是一个轻量级IoC和AOP容器框架。是JavaEE工程师必须掌握的内容，企业开发趋向于Spring"全家桶"架构，而这些都基于Spring框架。

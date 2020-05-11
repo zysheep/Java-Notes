@@ -1,0 +1,1 @@
+Eureka是个基于REST的服务，SpringCloud将它集成在其子项目中，以实现SpringCloud的服务发现功能，SpringCloud重要组成组件。

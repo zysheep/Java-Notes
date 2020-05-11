@@ -1,0 +1,1 @@
+VirtualBox 是一款开源虚拟机软件，号称是最强的免费虚拟机软件，可虚拟的系统包括Windows、Mac OS X、Linux、甚至Android等。

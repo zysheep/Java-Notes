@@ -1,0 +1,1 @@
+Beats 平台集合了多种单一用途数据采集器。它们从成百上千或成千上万台机器和系统向Logstash或Elasticsearch发送数据。

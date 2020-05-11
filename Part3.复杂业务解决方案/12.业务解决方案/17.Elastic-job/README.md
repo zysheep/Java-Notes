@@ -1,0 +1,1 @@
+Elastic-Job是当当网大牛基于Zookepper，Quartz开发并且开源的Java分布式定时任务，解决Quartz不支持分布式的弊端。

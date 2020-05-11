@@ -1,0 +1,1 @@
+ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，分布式RPC框架Dubbo的注册中心往往使用Zookeeper来实现。
