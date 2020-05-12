@@ -1,8 +1,8 @@
 ## 目录
 
-- Java快速成长学习路线
-- 浅谈Java自学还是培训好?
-- 推荐学习Java的地方
+- [Java快速成长学习路线](https://github.com/zysheep/Java-Notes#%E6%B5%85%E8%B0%88java%E8%87%AA%E5%AD%A6%E8%BF%98%E6%98%AF%E5%9F%B9%E8%AE%AD%E5%A5%BD)
+- [浅谈Java自学还是培训好?]()
+- [推荐学习Java的地方]()
 
 ## Java快速成长学习路线
 
