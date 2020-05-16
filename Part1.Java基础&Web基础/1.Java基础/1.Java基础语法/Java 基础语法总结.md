@@ -43,7 +43,7 @@
 `Java 5.0`引入了枚举，**枚举限制变量只能是预先设定好的值**。使用枚举可以减少代码中的 `bug`。
 
 例如，我们为果汁店设计一个程序，它将限制果汁为小杯、中杯、大杯。这就意味着它不允许顾客点除了这三种尺寸外的果汁。
-```
+```Java
 class FreshJuice {
    enum FreshJuiceSize{ SMALL, MEDIUM , LARGE }
    FreshJuiceSize size;
@@ -58,7 +58,7 @@ public class FreshJuiceTest {
 ```
 **注意:** 枚举可以单独声明或者声明在类里面。方法、变量、构造函数也可以在枚举中定义。
 
-```
+```Java
 /**
  * 枚举类的后缀建议为Enum，枚举类型的实例对象建议全大写（这样做符合JAVA的规范）
  */
@@ -93,6 +93,7 @@ class SeasonTest1{
 # `Java` 关键字
 下面列出了` Java` 关键字。这些保留字不能用于常量、变量、和任何标识符的名称。
 ​		
+
 类别 | 关键字 | 说明
 :-:|:-:|:-:
 访问控制 | private	 |私有的
@@ -150,7 +151,7 @@ class SeasonTest1{
 
 # `Java`注释
 类似于` C/C++`、`Java` 也支持单行以及多行注释。注释中的字符将被 `Java` 编译器忽略。
-```
+```Java
 public class HelloWorld {
    /* 这是第一个Java程序
     *它将打印Hello World
