@@ -96,10 +96,10 @@ class SeasonTest1{
 
 类别 | 关键字 | 说明
 :-:|:-:|:-:
-访问控制 | private	 |私有的
-  \-      | protected |受保护的
- \-       | public	 |公共的
-    \-    | default	 |默认
+访问控制 |private	 |私有的
+ \-     | protected |受保护的
+ \-      | public	 |公共的
+ \-   | default	 |默认
 类、方法和变量修饰符|   abstract	|声明抽象
 \-                    | class	        |类
 \-                    | extends	    |扩充,继承
@@ -115,7 +115,7 @@ class SeasonTest1{
 \-                    | volatile	    |易失
 程序控制语句        | break	    |跳出循环
 \-                    |case	    |定义一个值以供 switch 选择
--                    |continue	|继续
+\-                    |continue	|继续
 \-                    |default	|默认
 \-                    |do	        |运行
 \-                    |else	    |否则
@@ -142,12 +142,12 @@ class SeasonTest1{
 \-                    |long	    |长整型
 \-                    |short	    |短整型
 变量引用             |super	    |父类,超类
-\-                    | this	    |本类
+\-             | this	    |本类
 \-                    | void	    |无返回值
 保留关键字           |goto	    |是关键字，但不能使用
 \-                     |const	    |是关键字，但不能使用
 \-                     |null	    |空
--                     
+                  
 
 # `Java`注释
 类似于` C/C++`、`Java` 也支持单行以及多行注释。注释中的字符将被 `Java` 编译器忽略。
